@@ -1,0 +1,11 @@
+Norris Chan
+1532274
+Homework Assignment 1
+
+Assignment A: contains my 3 objects with 3 lights. Each object uses a different shader including: Blur.shader, VertexRotation.shader, and PhongTexture.shader
+
+Assignment B: contains a RenderToTexture shader for a marvel texture. This identifies the edges of the picture and shades them either black or white.
+
+Assignment C: I made a distortion flow texture and I used 2 different textures for this shader. 
+
+Assignment D:
