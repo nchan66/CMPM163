@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{15989FC7-1D02-C754-55C3-7690661A8572}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NoiseTest.shader">
+    <Files>
+      <File FileName="Assets/AudioPeer.cs" Line="28" Column="1" />
+      <File FileName="Assets/ParticleShader.shader" Line="1" Column="1" />
+      <File FileName="Assets/InstantiateCubes.cs" Line="33" Column="116" />
+      <File FileName="Assets/NoiseTest.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
